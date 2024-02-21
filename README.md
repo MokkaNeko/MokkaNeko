@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about everything
 - 📫 How to reach me: you can't
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: IDK
+- ⚡ Fun fact: this fact is not fun
