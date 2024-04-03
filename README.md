@@ -31,9 +31,7 @@
 ---
  <h2 align="center">Tools & Technologies ⚡</h2>
  <p align="center">
-  <a href="https://anuphaldar.com">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,php,react,kotlin,java,git" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,php,react,kotlin,java,git" />
 </p>
 
 
