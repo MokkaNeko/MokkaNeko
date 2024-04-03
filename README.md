@@ -1,12 +1,9 @@
-## **Hey** <img src="https://gist.githubusercontent.com/haldaranup/aad23918f5ad8bff5199094c9f6d337a/raw/a19b90e65fcffa0eabd3874b66520b91ee9f0e60/hi.gif" width="29">, **I'm [Anup](https://anuphaldar.com/), Great to see you here!**
+## **Hey** <img src="https://gist.githubusercontent.com/haldaranup/aad23918f5ad8bff5199094c9f6d337a/raw/a19b90e65fcffa0eabd3874b66520b91ee9f0e60/hi.gif" width="29">, **I'm Ichsan Ardika, Great to see you here!**
 
 ## About Me 🙂
 - *A passionate **web developer** who writes interesting **bugs***
-- *Specializes in **front-end development***
-- ***Open-source** enthusiast*
+- *Specializes in **mobile and front-end development***
 - *Trying and **exploring** new stuff*
-#### Checkout my [bio.link](https://haldaranup.bio.link) profile for more details.
-
 
 
 ---
@@ -21,7 +18,7 @@
 ---
 <h2 align="center">Contribution Graph 📊</h2>
 
-[![Anup's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haldaranup&theme=chartreuse-dark)](https://github.com/haldaranup/github-readme-activity-graph)
+[![Ichsan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mokkaneko&theme=chartreuse-dark)](https://github.com/haldaranup/github-readme-activity-graph)
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=haldaranup&theme=chartreuse-dark" />  -->
 <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=haldaranup&theme=chartreuse-dark" />   -->
 
@@ -35,7 +32,7 @@
  <h2 align="center">Tools & Technologies ⚡</h2>
  <p align="center">
   <a href="https://anuphaldar.com">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,redux,vue,nodejs,express,mongodb,typescript,git" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,kotlin,java,git" />
   </a>
 </p>
 
@@ -44,16 +41,10 @@
 ___
 <h2 align="center">Let's Connect<img src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px"> </h2>
  <p align="center">
-  <a href="https://twitter.com/haldar_anup1">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/haldaranup">
+  <a href="https://www.linkedin.com/in/ichsan-ardika-72296a286">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://medium.com/@haldaranup">              
-    <img src="https://gist.githubusercontent.com/haldaranup/d3e2a54e5909a37cb7cf212bf83b3e6c/raw/63631d4cfd5d53de4513ac774f0008aa235c6aba/medium.png" height="48" width="48" />
-  </a>
-  <a href="https://www.instagram.com/haldar_anup1">
+  <a href="https://www.instagram.com/mokkaneko/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
